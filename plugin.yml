@@ -1,0 +1,14 @@
+name: Enchant
+author: alvin0319
+main: Enchant\EnchantPlugin
+version: 1.0.0
+api: 4.0.0
+
+commands:
+  인챈트:
+    description: 인챈트 명령어입니다.
+    permission: enchant.command
+
+permissions:
+  enchant.command:
+    default: true
